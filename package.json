@@ -1,0 +1,22 @@
+{
+  "name": "fullstack-portfolio",
+  "version": "1.0.0",
+  "description": "A portfolio for a full stack developer still in studies, showcasing projects, education, and technology insights.",
+  "main": "src/index.html",
+  "scripts": {
+    "start": "live-server src",
+    "build": "echo 'No build process defined'"
+  },
+  "keywords": [
+    "portfolio",
+    "full stack",
+    "developer",
+    "web development"
+  ],
+  "author": "Your Name",
+  "license": "MIT",
+  "dependencies": {},
+  "devDependencies": {
+    "live-server": "^1.2.1"
+  }
+}
